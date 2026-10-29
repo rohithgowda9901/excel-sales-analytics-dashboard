@@ -1,4 +1,4 @@
-# Sales Performance Analysis Dashboard using Microsoft Excel
+# Sales Performance Analysis Dashboard | Microsoft Excel
 
 ## Project Overview
 This project presents an interactive Sales Analytics Dashboard built using Microsoft Excel to explore sales performance, profitability, regional trends, customer segments, product categories, payment methods, and returns.
